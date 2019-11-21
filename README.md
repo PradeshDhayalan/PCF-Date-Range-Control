@@ -3,7 +3,7 @@
  
 ## Add DateRange Control to your fields
 
-1) Import the PCFDateRange Control - Solution location is given below for your refernece.
+1) Import the PCFDateRange Control Solution in your environment - Solution is given below for your refernece.
 2) Configure the control for your date range fields like Valid From & To etc.
 
 ![alt text](/images/1.png "Add DateRange control to the Date Only Field")
@@ -19,5 +19,3 @@
 Download PCFDateRangeControl-Managed Solution [PCF_DateControl_managedSolution](https://github.com/PradeshDhayalan/PCF-Date-Range-Control/blob/master/Solutions/PowerAppsTools_d365crnr_1_0_managed.zip)
 
 Download PCFDateRangeControl-Unmanaged Solution [PCF_DateControl_managedSolution](https://github.com/PradeshDhayalan/PCF-Date-Range-Control/blob/master/Solutions/PowerAppsTools_d365crnr_1_0.zip)
-
-
