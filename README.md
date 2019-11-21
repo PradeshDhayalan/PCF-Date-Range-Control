@@ -1,5 +1,5 @@
 # PCF Date Range Control
- A Date Range control as PCF Control for Model Driven Apps, in use case scenerios like adding Start/End Dates or From/To Dates (DateOnly fields) we need to couple of Date Field to do it, this control replace with OOB fields and helps to select Dates in range. Neatly packed using Office UI Fabric control, render nicely in UCI interface.
+ A Date Range control as PCF Control for Model Driven Apps. In use case scenerios like adding Start & End Date / From & To Date needs to two OOB Date fields in UI to feed data, this control replaces and helps to select Dates in range. Contorl in the backend pushes data to both the fiels. Neatly packed using Office UI Fabric control, render nicely in UCI interface.
  
 ## Add DateRange Control to your fields
 
